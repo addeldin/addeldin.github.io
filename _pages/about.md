@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Candidate in English Composition at the University of Pittsburgh
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Image generated via <a href="https://www.craiyon.com">Craiyon</a></p>
+    <p>prompt: `computer static`</p>
+    <br></br><br></br>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
+## About
+On this site, you can learn very little about me as a person, but you can learn a bit about the kinds of work I'm doing, which obviously does not include formal training in web design.
+You should know at a minimum that I study and teach about computers from a composition and rhetoric perspective, which for me means taking into acount their technical and social elements and contexts. Put another way: my research interests center on digital technology, computation, and pedagogy from a comp/rhet perspective.
+The Projects page is the focus. There, you will find pedagogical materials I've developed for teaching (with) computers in humanities courses, in particular ones that focus on writing and/or digital media.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Contact
+If you would like to know more or otherwise contact me, please email me at <a href="mailto:addison.eldin@pitt.edu">addison.eldin@pitt.edu</a>.
