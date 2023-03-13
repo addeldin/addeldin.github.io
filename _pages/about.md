@@ -23,4 +23,4 @@ You should know at a minimum that I study and teach about computers from a compo
 The Projects page is the focus. There, you will find pedagogical materials I've developed for teaching (with) computers in humanities courses, in particular ones that focus on writing and/or digital media.
 
 ## Contact
-If you would like to know more or otherwise contact me, please email me at <a href="mailto:addison.eldin@pitt.edu">addison.eldin@pitt.edu</a>.
+If you would like to know more or otherwise contact me, please email me at addison.eldin(at)pitt(dot)edu
