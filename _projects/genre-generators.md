@@ -3,7 +3,7 @@ layout: page
 title: Genre Generators
 description: in-class activity that guides students through the process of designing genre generators, which can help students understand the process of programming without having to actually code
 img: assets/img/genre-generators.png
-importance: 1
+importance: 2
 category: instructional activities
 ---
 ## Description

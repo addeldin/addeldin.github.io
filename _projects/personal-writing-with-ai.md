@@ -3,7 +3,7 @@ layout: page
 title: Personal Writing with AI
 description: a mix of in-class activities and assignments that guide students through learning what it might mean to write with AI for personal written work
 img: assets/img/personal-writing-with-ai.png
-importance: 2
+importance: 3
 category: instructional activities
 ---
 ## Description
