@@ -24,3 +24,5 @@ The Projects page is the focus. There, you will find pedagogical materials I've 
 
 ## Contact
 If you would like to know more or otherwise contact me, please email me at addison.eldin(at)pitt(dot)edu
+
+But also, please don't.
