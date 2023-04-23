@@ -71,8 +71,28 @@ I view the courses I've taught and ways I've incorporated fields like computer h
 In summary, I'm interested in how rhetorical/humanistic understand of digital technology can extend the goals of writing instruction to teaching students about computers and how to use them purposefully. The projects I did for seminar and practicum clearly consider computer history and pedagogy, but the capstone project is where I focused on these goals specifically.
 
 ## DSAM Capstone
+My capstone project started with two practical goals:
+
+1. Working on a submission to an open collection that is a kind of open educational resource for instructors teaching at intersection of computing and writing.
+2. Building a personal website to host the submission and other teaching materials/lesson plans that I can build on after the term ends.
+
+In service of trying to meet those goals, I had two initial questions:
+
+1. How should I present the materials? What format should they be presented in, and should they be hosted on the personal website directly? If so, how?
+2. How could I overcome my limited knowledge of HTML/CSS given the high expectations placed on websites today, like responsive design for multiple devices?
+
+I'd worked through those two initial questions by the end of the first iteration on this project. The website itself being written in HTML/CSS would not be a good use of time; what I am trying to portray is not my capabilities in web design, but my ability to design and present pedagogical materials. As a result, I opted to host the materials on GitHub so they would be easily accessible to other instructors, and to link out to those materials from a personal site so they would be easily found and described in one place. Further, I decided to avoid the time spent on things like responsive design by using GitHub Pages to host a website built around a Jekyll theme, as that would give me more time to focus on the educational resources.
+
+From there, I focused on building the basic website structure by making necessary changes to the template I'd used, [al-foli](https://github.com/alshedivat/al-folio), and then designing the materials for the collection contribution. While the specific shape of the first activity, [`Genre Generators`](https://addeldin.github.io/projects/genre-generators/) was informed by the expectations of the collection, I decided the format was generalizable. Each activity, hosted as a GitHub repository, would include a README describing the contexts in the collection, a contextual introduction, a detailed instructional guide explaining how to enact the activity in a class, and any necessary examples or templates. The choice to host on GitHub has the additional benefit of making the materials be editable by anyone who makes a copy of the repository for their own use.
+
+Before finishing a second activity on using ChatGPT to help students consider its role in their writing process, I decided to design a guide for using the materials themselves, as some instructors might be comfortable working with the files but not familiar with GitHub or with certain formats like Jupyter notebooks. Part of my self-conception as an instructor is someone who tries to speak to people who are interested in working with digital tools, but might not have the prior experience with those tools. This is the basis of the [`How to Use`](https://addeldin.github.io/projects/how-to-use/) page on the website.
+
+Finally, I designed [an activity](https://addeldin.github.io/projects/personal-writing-with-ai/) based on a current conversation in writing studies around student use of ChatGPT. This activity is intended to help instructors consider how they can teach ethical and beneficial use of generative writing software like ChatGPT as part of the writing process, in this case for personal reflective writing.
+
+While I'd hoped to design more activities, particularly around ChatGPT, I felt that what I did finish accomplished the basic goals I'd set at the start of term. More importantly, I think that the overall design of the site and activities reflects the kind of instructor I want to be, not just in terms of what I teach in the classroom, but in terms of how I try to interface with other instructors in the space.
 
 ## Conclusion
+Across the core courses for the DSAM certificate, I moved from a focus on the role of technical/methodological learning in digital-focused courses in the humanities, to a consideration of what kind of instructor I want to be in the digital-focused courses I'm teaching. While I find it useful to look at what other instructors are doing, that information is secondary to deciding what I want to do, a shift that is more clearly noticable in the practicum project and is centered in the capstone project. I want to integrate a focus on technical learning, computer history, digital technology-as-technology, and comp/rhet approaches to the teaching of writing in service of designing and teaching courses that help students understand the technical and rhetorical dimensions of digital technology so that they do not assume the computer is a neutral instrument in their work outside of the classes I teach.
 
 ## Appendix
 ### A: Works Cited in Practicum Project
