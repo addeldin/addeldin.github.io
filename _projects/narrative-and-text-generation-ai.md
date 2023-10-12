@@ -8,7 +8,7 @@ category: instructional activities
 ---
 
 ## Description
-The "Narrative and Text Generation AI" activity engages students in a discussion about narrative and text generation AI, namely [AI Dungeon](https://beta.aidungeon.com/), a storytelling engine that involves the user interacting with ChatGPT. Students play AI Dungeon as an assignment, and then the in-class discussion focuses on what kind of narrative—if it can be considered narrative at all—results from the interaction. Students are given introductory information about the technology behind ChatGPT and asked to relate the technology to their understanding of narrative and narrative thoery.
+The "Narrative and Text Generation AI" activity engages students in a discussion about narrative and text generation AI, namely [AI Dungeon](https://beta.aidungeon.com/), a storytelling engine where the user interacts with ChatGPT via text input. Students play AI Dungeon as an assignment, and then the in-class discussion focuses on what kind of narrative—if it can be considered narrative at all—results from the interaction. Students are given introductory information about the technology behind ChatGPT and asked to relate the technology to their understanding of narrative and narrative theory.
 
 ## Links
  <p>To read an introduction to and context for this activity, along with the relevant instructional materials, please visit the <a href="https://github.com/addeldin/narrative-and-text-generation-ai">GitHub Repository</a>.</p>
