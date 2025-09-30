@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate in English Composition at the University of Pittsburgh
+subtitle: Teaching Assistant Professor of English at the University of Pittsburgh
 
 profile:
   align: left
