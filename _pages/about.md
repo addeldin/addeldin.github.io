@@ -19,8 +19,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 ## About
 On this site, you can learn very little about me as a person, but you can learn a bit about the kinds of work I'm doing, which obviously does not include formal training in web design.
-You should know at a minimum that I study and teach about computers from a composition and rhetoric perspective, which for me means taking into acount their technical and social elements and contexts. Put another way: my research interests center on digital technology, computation, and pedagogy from a comp/rhet perspective.
-The Projects page is the focus. There, you will find pedagogical materials I've developed for teaching (with) computers in humanities courses, in particular ones that focus on writing and/or digital media.
+You should know at a minimum that I'm an English professor at Pitt who teaches classes about computers, with much of my approach being informed by conversations in the field of composition and rhetoric.
+
+The Projects page is the focus for this site. There, you will find pedagogical materials I've developed for teaching (with) computers in humanities courses, in particular ones that focus on writing and/or digital media.
 
 ## Contact
 If you would like to know more or otherwise contact me, please email me at addison.eldin(at)pitt(dot)edu
