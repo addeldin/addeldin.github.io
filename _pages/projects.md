@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A mix of instructional activities and sample assignments, and projects for coursework.
+description: A mix of instructional activities and other work I do for the university.
 nav: true
 nav_order: 2
-display_categories: [instructional activities, coursework]
+display_categories: [instructional activities]
 horizontal: false
 ---
 
