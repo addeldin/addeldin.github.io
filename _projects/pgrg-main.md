@@ -1,0 +1,45 @@
+---
+layout: page
+title: Pitt Games Reading Group Information
+description: information regarding the Pitt Games Reading Group meeting for 11/7/25
+img: assets/img/pgrg-main.png
+importance: 1
+category: pitt games reading group
+---
+
+Welcome to the **Pitt Games Reading Group** main page! Here you will find general information about the group, how to sign up for our mailing list, and links to pages for each individual meeting.
+
+## General
+
+The **Pitt Games Reading Group** meets once or twice per semester and is open to students and faculty/staff at the University of Pittsburgh.
+
+When we meet, we will discuss a game played in advance of the meeting, and then consider its design, story, aesthetic, and more. We will also discuss a supplemental reading that gives useful context to the game under focus.
+
+This group is a great opportunity for aspiring designers, avid game players, and those interested in the study/analysis of games to gather and explore the medium together, through examples that engage us in novel and unexpected ways. 
+
+## Contact and Sign-Up
+
+For more information, please reach out to me by email: addison[dot]eldin[at]pitt[dot]edu
+
+If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
+
+## Next Meeting
+
+### Fall 2025
+
+**Meeting Information:** November 7th, 2025, 3:30–5:00PM, CL 407
+
+**Game:** *Starship Titanic* (1998) by the Digital Village and Douglas Adams
+
+![Starship Titanic box art](/assets/img/starship-titanic.jpg)
+
+**Reading:** excerpts from *The Salmon of Doubt: Hitchhiking the Galaxy One Last Time* by Douglas Adams (pp. 85–121; 155–160)
+
+**Discussion Questions**:
+
+* TK
+* TK
+
+## Previous Meetings
+
+None yet!

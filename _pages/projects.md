@@ -5,7 +5,7 @@ permalink: /projects/
 description: A mix of instructional activities and other work I do for the university.
 nav: true
 nav_order: 2
-display_categories: [instructional activities]
+display_categories: [pitt games reading group, instructional activities]
 horizontal: false
 ---
 
