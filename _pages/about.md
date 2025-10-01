@@ -24,4 +24,4 @@ You should know at a minimum that I'm an English professor at Pitt who teaches c
 The Projects page is the focus for this site. There, you will find pedagogical materials I've developed for teaching (with) computers in humanities courses, in particular ones that focus on writing and/or digital media.
 
 ## Contact
-If you would like to know more or otherwise contact me, please email me at addison.eldin(at)pitt(dot)edu
+If you would like to know more or otherwise contact me, please email me: addison[dot]eldin[at]pitt[dot]edu
