@@ -1,13 +1,19 @@
 ---
 layout: page
-title: Pitt Games Reading Group Information
-description: information regarding the Pitt Games Reading Group meeting for 11/7/25
+title: Pitt Games Reading Group Main Page
+description: information regarding the Pitt Games Reading Group and our next meeting
 img: assets/img/pgrg-main.png
 importance: 1
 category: pitt games reading group
 ---
 
-Welcome to the **Pitt Games Reading Group** main page! Here you will find general information about the group, how to sign up for our mailing list, and links to pages for each individual meeting.
+Welcome to the **Pitt Games Reading Group** main page! Below you will find a mailing list sign-up sheet, general information about the group, details about our next meeting, and links to previous meetings.
+
+![logo for Pitt Games Reading Group](/assets/img/pgrg-logo.png)
+
+**For more information**, please reach out to me by email: addison[dot]eldin[at]pitt[dot]edu
+
+If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
 
 ## General
 
@@ -17,17 +23,11 @@ When we meet, we will discuss a game played in advance of the meeting, and then 
 
 This group is a great opportunity for aspiring designers, avid game players, and those interested in the study/analysis of games to gather and explore the medium together, through examples that engage us in novel and unexpected ways. 
 
-## Contact and Sign-Up
-
-For more information, please reach out to me by email: addison[dot]eldin[at]pitt[dot]edu
-
-If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
-
 ## Next Meeting
 
 ### Fall 2025
 
-**Meeting Information:** November 7th, 2025, 3:30–5:00PM, CL 407
+**Meeting Details:** November 7th, 2025, 3:30–5:00PM, CL 407
 
 **Game:** *Starship Titanic* (1998) by the Digital Village and Douglas Adams
 
