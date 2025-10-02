@@ -43,3 +43,7 @@ This group is a great opportunity for aspiring designers, avid game players, and
 ## Previous Meetings
 
 None yet!
+
+## Acknowledgments
+
+This club was and run by started by Justin Bortnick, who kindly offered several reference materials that were used for this page.
