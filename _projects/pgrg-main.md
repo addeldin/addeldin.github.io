@@ -46,4 +46,4 @@ None yet!
 
 ## Acknowledgments
 
-This club was and run by started by Justin Bortnick, who kindly offered several reference materials that were used for this page, including the logo.
+This club was started by Justin Bortnick, who kindly offered several reference materials that were used for this page, including the logo.
