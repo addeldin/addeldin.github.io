@@ -7,9 +7,9 @@ importance: 1
 category: pitt games reading group
 ---
 
-![logo for Pitt Games Reading Group](/assets/img/pgrg-logo.png)
-
 Welcome to the **Pitt Games Reading Group** main page! Below you will find a mailing list sign-up sheet, general information about the group, details about our next meeting, and links to previous meetings.
+
+![logo for Pitt Games Reading Group](/assets/img/pgrg-logo.png)
 
 If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
 
