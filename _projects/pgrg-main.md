@@ -11,9 +11,9 @@ Welcome to the **Pitt Games Reading Group** main page! Below you will find a mai
 
 ![logo for Pitt Games Reading Group](/assets/img/pgrg-logo.png)
 
-**For more information**, please reach out to me by email: addison[dot]eldin[at]pitt[dot]edu
-
 If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
+
+**For more information**, please reach out to me or Dr. Nathan Koob by email: addison[dot]eldin[at]pitt[dot]edu / NBK18[at]pitt[dot]edu
 
 ## General
 
@@ -46,4 +46,4 @@ None yet!
 
 ## Acknowledgments
 
-This club was and run by started by Justin Bortnick, who kindly offered several reference materials that were used for this page.
+This club was and run by started by Justin Bortnick, who kindly offered several reference materials that were used for this page, including the logo.
