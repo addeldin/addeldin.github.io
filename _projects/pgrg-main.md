@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pitt Games Reading Group Main Page
+title: Pitt Games Reading Group
 description: information regarding the Pitt Games Reading Group and our next meeting
 img: assets/img/pgrg-main.png
 importance: 1
