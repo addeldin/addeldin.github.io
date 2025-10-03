@@ -11,6 +11,8 @@ Welcome to the **Pitt Games Reading Group** main page! Below you will find a mai
 
 ![logo for Pitt Games Reading Group](/assets/img/pgrg-logo.png)
 
+## Sign-Up / Mailing List
+
 If you intend to attend, **please [sign up for our mailing list](https://forms.gle/T8LGcpxSC9qVPQ828)**!
 
 ## General
