@@ -15,7 +15,7 @@ Welcome to the **Pitt Games Reading Group** archive! Below you will find informa
 
 ### Fall 2025 (November)
 
-**Meeting Details:** November 7th, 2025, 3:30–5:00PM, CL 407
+**Meeting Details:** November 7th, 2025, 3:30 – 5:00PM, CL 407
 
 **Game:** *Starship Titanic* (1998) by the Digital Village and Douglas Adams
 
