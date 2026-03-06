@@ -27,7 +27,7 @@ This group is a great opportunity for aspiring designers, avid game players, par
 
 ### Spring 2026 (March)
 
-**Meeting Details:** March 27th, 2026, 3:30 – 5:00PM, CL 512
+**Meeting Details:** March 27th, 2026, 4:00 – 5:30PM, CL 512
 
 **Game:** *Homebody* (2023) by Game Grumps, Jory Griffis, and Leighton Gray
 
@@ -45,7 +45,7 @@ Additionally, one of the game’s two co-writers, Leighton Gray, will be virtual
 
 * How do we come to understand Emily and her relationships to others through the game’s looping narrative structure? What do we learn within each loop, and then what do we learn about Emily across these loops?
 * How many puzzles (both within loops and across loops) were you able to solve on your own? Which puzzles had you stuck, or needing to look up solutions online? Did you feel that the puzzles effectively contributed to the game’s narrative and design goals?
-* How does Homebody represent topics such as social anxiety, mental health, and interpersonal relationships? How are these topics explored through writing, mechanics, and other elements of design? Are there other contemporary issues you see being explored?
+* How does *Homebody* represent topics such as social anxiety, mental health, and interpersonal relationships? How are these topics explored through writing, mechanics, and other elements of design? Are there other contemporary issues you see being explored?
 * How does *Homebody* make you think about identity and how your sense of identity relates to others? How does it make you think about the player character’s identity, or your own?
 
 ## Previous Meetings
